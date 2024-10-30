@@ -1,0 +1,83 @@
+.color-bg-tag-cloud {
+	margin: 10px 0 6px
+}
+.color-bg-tag-cloud a {
+	margin: 0 4px 4px 0!important;
+    padding: 2px 6px!important;
+	display: inline-block!important;
+	text-decoration: none!important;
+	white-space: nowrap!important;
+	position: relative!important;
+	border-color: none!important;
+	border: none!important;
+	opacity: 0.8!important;
+    border-radius: 2px!important;
+    color: #fff!important;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -ms-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+}
+.color-bg-tag-cloud a:hover {
+	display: inline-block!important;
+	text-decoration: none!important;
+	white-space: nowrap!important;
+	position: relative!important;
+	border-color: none!important;
+	border: none!important;
+	opacity: 1!important;
+    color: #fff!important;
+}
+.color-bg-tag-cloud a:active {
+    color: #fff!important;
+}
+
+.color-bg-tag-cloud .cloudbold  a{
+	font-weight:bold!important;
+}
+.color-bg-tag-cloud .yahei {font-family:Microsoft Yahei,Segoe UI,Helvetica,Arial,sans-serif}
+.color-bg-tag-cloud .arial {font-family:Arial, Helvetica, Sans-serif!important}
+.color-bg-tag-cloud .rockwell {font-family:Rockwell, Georgia, Serif!important}
+.color-bg-tag-cloud .tahoma {font-family:Tahoma, Geneva, Sans-serif!important}
+.color-bg-tag-cloud .georgia {font-family:Georgia, Times, Serif!important}
+.color-bg-tag-cloud .times {font-family:Times, Georgia, Serif!important}
+.color-bg-tag-cloud .cambria {font-family:Cambria, Georgia, Serif!important}
+.color-bg-tag-cloud .verdana {font-family:Verdana, Lucida, Sans-serif!important}
+.color-bg-tag-cloud .opensans {font-family:"Open Sans", Helvetica, Arial!important}
+
+.color-bg-tag-cloud .cbtcdefault a, .color-bg-tag-cloud .cbtcdefault-a {
+    background: #f80;
+}
+
+.color-bg-tag-cloud .cbtcsilver a, .color-bg-tag-cloud .cbtcsilver-a {
+    background: #999;
+}
+
+.color-bg-tag-cloud .cbtcgreen a, .color-bg-tag-cloud .cbtcgreen-a {
+    background: #0a8;
+}
+
+.color-bg-tag-cloud .cbtcred a, .color-bg-tag-cloud .cbtcred-a {
+    background: #f20;
+}
+
+.color-bg-tag-cloud .cbtcblue a, .color-bg-tag-cloud .cbtcblue-a {
+    background: #09f;
+}
+
+.color-bg-tag-cloud .cbtcpurple a, .color-bg-tag-cloud .cbtcpurple-a {
+    background: #81f;
+}
+
+.color-bg-tag-cloud .cbtccyan a, .color-bg-tag-cloud .cbtccyan-a {
+    background: #0ac;
+}
+
+.color-bg-tag-cloud .cbtclime a, .color-bg-tag-cloud .cbtclime-a {
+    background: #2c3;
+}
+
+.color-bg-tag-cloud .cbtcblack a, .color-bg-tag-cloud .cbtcblack-a {
+    background: #444;
+}
